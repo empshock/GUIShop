@@ -1,0 +1,177 @@
+title: '&cEnchants'
+
+# Provides extra damage when shooting arrows from bows
+ARROW_DAMAGE:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - '268'
+    - 'itemID'
+
+# Sets entities on fire when hit by arrows shot from a bow
+ARROW_FIRE:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides infinite arrows when shooting a bow
+ARROW_INFINITE:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides a knockback when an entity is hit by an arrow from a bow
+ARROW_KNOCKBACK:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Increases damage against all targets
+DAMAGE_ALL:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Increases damage against arthropod targets
+DAMAGE_ARTHROPODS:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Increases damage against undead targets
+DAMAGE_UNDEAD:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Increases walking speed while in water
+DEPTH_STRIDER:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Increases the rate at which you mine/dig
+DIG_SPEED:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Decreases the rate at which a tool looses durability
+DURABILITY:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# When attacking a target, has a chance to set them on fire
+FIRE_ASPECT:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# All damage to other targets will knock them back when hit
+KNOCKBACK:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides a chance of gaining extra loot when destroying blocks
+LOOT_BONUS_BLOCKS:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides a chance of gaining extra loot when killing monsters
+LOOT_BONUS_MOBS:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Decreases odds of catching worthless junk
+LUCK:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Increases rate of fish biting your hook
+LURE:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Decreases the rate of air loss whilst underwater
+OXYGEN:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides protection against environmental damage
+PROTECTION_ENVIRONMENTAL:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides protection against explosive damage
+PROTECTION_EXPLOSIONS:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides protection against fall damage
+PROTECTION_FALL:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides protection against fire damage
+PROTECTION_FIRE:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Provides protection against projectile damage
+PROTECTION_PROJECTILE:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Allows blocks to drop themselves instead of fragments (for example, stone instead of cobblestone)
+SILK_TOUCH:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Damages the attacker
+THORNS:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'
+
+# Damages the attacker
+WATER_WORKER:
+  price: 0.00
+  amplifier: 3
+  availableItems:
+    - 'itemID'

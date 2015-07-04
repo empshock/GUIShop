@@ -1,0 +1,7 @@
+name: GUIShop
+main: net.empshock.guishop.Main
+version: 1.0.0
+author: empshock
+depend: [Vault]
+commands:
+ shop:

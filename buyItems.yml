@@ -1,0 +1,116 @@
+plugin-header: '&6[&3Shop&6]&7'
+
+main_menu: # Main Buy Menu (opened with /shop buy)
+  slots: 9
+  title: '&cName'
+
+categories:
+  '1': #First Main Menu Category
+    icon: '322:1'
+    title: '&cRaiding'
+    description: 'Upgrade your gear and join the hunt!'
+    slots: 27
+    '0': #This is the category's menu. (Men-ception?)
+      price: 10.00
+      item: '322:1'
+      name: '&cItemName'
+    '1':
+      price: '100'
+      item: '383:50'
+      name: '&cItemName'
+    '2':
+      price: 10.00
+      item: '397:4'
+      name: '&cItemName'
+    '3':
+      price: 10.00
+      item: '50'
+      name: '&cItemName'
+    '4':
+      price: 10.00
+      item: '351:14'
+      name: '&cItemName'
+    '5':
+      price: 10.00
+      item: '171:15'
+      name: '&cItemName'
+
+  '2': #Second Main Menu Category
+    icon: '322:1'
+    title: '&cOres'
+    description: 'inset description here'
+    slots: 27
+    '0':
+      price: 10.00
+      item: '34'
+      name: '&cItemName'
+
+  '3': #Third Main Menu Category
+    icon: '322:1'
+    title: '&cFarming'
+    description: 'inset description here'
+    slots: 27
+    '0': #This is the category's inventory
+      price: 10.00
+      item: '73'
+      name: '&cItemName'
+
+  '4': #Fourth Main Menu Category
+    icon: '322:1'
+    title: '&cPvP'
+    description: 'inset description here'
+    slots: 27
+    '0':
+      price: 10.00
+      item: '34'
+      name: '&cItemName'
+
+  '5': #Fifth Main Menu Category
+    icon: '322:1'
+    title: '&cBlocks'
+    description: 'inset description here'
+    slots: 27
+    '0':
+      price: 10.00
+      item: '12'
+      name: '&cItemName'
+
+  '6': #Sixth Main Menu Category
+    icon: '322:1'
+    title: '&cPotions'
+    description: 'inset description here'
+    slots: 27
+    '0':
+      price: 10.00
+      item: '1'
+      name: '&cItemName'
+
+  '7': #Seventh Main Menu Category
+    icon: '322:1'
+    title: '&cFood'
+    description: 'inset description here'
+    slots: 27
+    '0':
+      price: 10.00
+      item: '85'
+      name: '&cItemName'
+
+  '8': #Eigth Main Menu Category
+    icon: '322:1'
+    title: '&cForgery'
+    description: 'inset description here'
+    slots: 27
+    '0':
+      price: 10.00
+      item: '37'
+      name: '&cItemName'
+
+  '9': #Ninth Main Menu Category
+    icon: '322:1'
+    title: '&cArmor'
+    description: 'inset description here'
+    slots: 27
+    '0':
+      price: 10.00
+      item: '52:50'
+      name: '&cItemName'
